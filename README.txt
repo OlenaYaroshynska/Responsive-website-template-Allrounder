@@ -1,4 +1,3 @@
-Адаптивный сайт, сверстанный на основе бесплатного psd шаблона "Allrounder".
+Responsive website, designed based on the psd template "Allrounder".
 
-Для верстки использован CSS фреймворк Bootstrap 3 и предварительно настроенная система сборки Gulp (BrowserSynс, 
-Sass, Jade, Plumber).
+For layout, the CSS framework Bootstrap 3 and the pre-configured Gulp build system (BrowserSync, Sass, Jade, Plumber) were used.
